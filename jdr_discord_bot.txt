@@ -1,0 +1,15 @@
+bot discord partie de jdr en Python
+
+Features:
+
+-créer un channel entre amis en attribuant un rôle de MJ à l'un des joueurs
+
+-prendre les fiches de persos et les afficher à l'aide d'une commande
+
+-permettre au MJ de mettre les stats des ennemis et lui afficher en privé par le biais d'une commande
+
+-prendre en compte les malus et bonus attribués par le MJ
+
+-faire les lancers de dés (ouverts ou non au choix du MJ)
+
+-afficher l'issue des combats dans le channel
